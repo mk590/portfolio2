@@ -4,7 +4,8 @@ import ProjectCard from './ProjectCard'
 import { useState } from 'react'
 import bg from './download.jpg'
 import bg2 from './download.png'
-import bg3 from './images.jpg'
+// import bg3 from './images.jpg'
+ import bg3 from './hrec.jpg'
 
 const Projects = () => {
   const [data, setdata] = useState(Pdata)
