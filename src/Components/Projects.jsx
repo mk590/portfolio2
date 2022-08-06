@@ -5,7 +5,7 @@ import { useState } from 'react'
 import bg from './download.jpg'
 import bg2 from './download.png'
 // import bg3 from './images.jpg'
- import bg3 from './hrec.jpg'
+ import bg3 from './hecrec.jpg'
 
 const Projects = () => {
   const [data, setdata] = useState(Pdata)
