@@ -4,7 +4,7 @@ import bg1 from './bg1.jpg'
 const About = () => {
     return (
         <>
-            <div className='flex h-[20rem] w-[full] text-center text-cyan-200 justify-center items-center'
+            <div className='flex  w-[full] text-center text-cyan-200 justify-center items-center'
         //     style={{
         //   backgroundImage: 'url('+bg1+')',
         //   backgroundSize: "cover",
